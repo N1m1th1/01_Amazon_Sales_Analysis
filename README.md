@@ -1,94 +1,110 @@
-AMAZON INDIA PRODUCT AND PRICING ANALYSIS
+**AMAZON INDIA PRODUCT AND PRICING ANALYSIS**
 
-ABOUT THE PROJECT
+**ABOUT THE PROJECT**
 
 This project focuses on analyzing Amazon India product data to understand product categories, pricing, discounts, ratings, and other important product attributes.
 
-The project demonstrates an end to end data analysis workflow using MySQL, Excel, and Power BI. The data was cleaned and analyzed to identify meaningful patterns and insights, followed by the development of an interactive Power BI dashboard.
+The project demonstrates an end to end data analysis workflow using MySQL, Excel, and Power BI. The data was cleaned, analyzed, and transformed into meaningful insights and an interactive dashboard.
 
-TOOLS USED
+**TOOLS USED**
 
-MYSQL
+**MYSQL**
 
-Used for database creation, data storage, SQL queries, data exploration, and analytical calculations.
+• Database creation and data storage
 
-EXCEL
+• SQL queries and data analysis
 
-Used for data cleaning, data quality checks, detailed analysis, pivot tables, charts, and insight generation.
+• Data exploration and analytical calculations
 
-POWER BI
+**EXCEL**
 
-Used to create an interactive dashboard and present key business insights through data visualizations.
+• Data cleaning and data quality checks
 
-PROJECT OBJECTIVES
+• Detailed data analysis
 
-Clean and prepare the Amazon India product dataset.
+• Pivot table creation
 
-Analyze the number of products across different categories.
+• Chart creation
 
-Analyze product prices and price ranges.
+• Insight generation
 
-Analyze product discounts and identify products with significant discounts.
+**POWER BI**
 
-Study product ratings and rating ranges.
+• Interactive dashboard development
 
-Perform data analysis using SQL and Excel.
+• Data visualization
 
-Create meaningful charts and visualizations.
+• Business insight presentation
 
-Develop an interactive Power BI dashboard.
+**PROJECT OBJECTIVES**
 
-Generate useful insights from real world product data.
+• Clean and prepare the Amazon India product dataset
 
-DATASET
+• Analyze the number of products across different categories
+
+• Analyze product prices and price ranges
+
+• Analyze product discounts
+
+• Study product ratings and rating ranges
+
+• Perform data analysis using SQL and Excel
+
+• Create meaningful charts and visualizations
+
+• Develop an interactive Power BI dashboard
+
+• Generate useful insights from real world product data
+
+**DATASET**
 
 The dataset contains Amazon India product information, including:
 
-Product Name
+• Product Name
 
-Category
+• Category
 
-Product Price
+• Product Price
 
-Original Price
+• Original Price
 
-Discount
+• Discount
 
-Product Rating
+• Product Rating
 
-Number of Ratings
+• Number of Ratings
 
-Number of Offers
+• Number of Offers
 
-Prime Status
+• Prime Status
 
-Best Seller Status
+• Best Seller Status
 
-Amazon Choice Status
+• Amazon Choice Status
 
-EXCEL ANALYSIS
+**EXCEL ANALYSIS**
 
 The following activities were performed using Excel:
 
-Data Cleaning
+• Data Cleaning
 
-Data Quality Analysis
+• Data Quality Analysis
 
-Category Analysis
+• Category Analysis
 
-Price Analysis
+• Price Analysis
 
-Discount Analysis
+• Discount Analysis
 
-Rating Analysis
+• Rating Analysis
 
-Pivot Table Analysis
+• Pivot Table Analysis
 
-Chart Creation
+• Chart Creation
 
-Insight Generation
+• Insight Generation
 
-MYSQL ANALYSIS
+**MYSQL ANALYSIS**
 
 A MySQL database named amazon_india was created for the project.
 
@@ -96,88 +112,98 @@ The main table used for analysis is amazon_india_products.
 
 SQL queries were used to perform data exploration and analysis, including:
 
-Total Number of Products
+• Total Number of Products
 
-Number of Products in Each Category
+• Number of Products in Each Category
 
-Average Price by Category
+• Average Price by Category
 
-Lowest Product Prices
+• Lowest Product Prices
 
-Highest Product Prices
+• Highest Product Prices
 
-Products with the Highest Discounts
+• Products with the Highest Discounts
 
-Most Expensive Products
+• Most Expensive Products
 
-Products with the Highest Number of Ratings
+• Products with the Highest Number of Ratings
 
-Overall Product Summary
+• Overall Product Summary
 
-POWER BI DASHBOARD
+**POWER BI DASHBOARD**
 
 The final interactive dashboard was developed using Power BI with the title:
 
 Amazon India Product and Pricing Analysis
 
-KEY DASHBOARD METRICS
+**KEY DASHBOARD METRICS**
 
-Total Products: 623
+• Total Products: 623
 
-Average Price: ₹28.23K
+• Average Price: ₹28.23K
 
-Average Discount: 40.95%
+• Average Discount: 40.95%
 
-Average Rating: 3.92
+• Average Rating: 3.92
 
-DASHBOARD VISUALIZATIONS
+**DASHBOARD VISUALIZATIONS**
 
-The dashboard includes the following visualizations:
+• Products by Category
 
-Products by Category
+• Average Price by Category
 
-Average Price by Category
+• Products by Rating Range
 
-Products by Rating Range
+**DASHBOARD FILTERS**
 
-DASHBOARD FILTERS
+• Price Range
 
-The dashboard provides interactive filters for:
+• Category
 
-Price Range
+• Rating Range
 
-Category
+**PROJECT WORKFLOW**
 
-Rating Range
+• Amazon India Product Dataset
 
-PROJECT WORKFLOW
+• Data Cleaning and Preparation using Excel
 
-The project followed a structured end to end data analysis workflow.
+• Data Analysis using Excel
 
-Amazon India Product Dataset
+• Database Creation and Data Storage using MySQL
 
-Data Cleaning and Preparation using Excel
+• SQL Based Data Analysis
 
-Data Analysis using Excel
+• Dashboard Development using Power BI
 
-Database Creation and Data Storage using MySQL
+• Data Visualization and Insight Generation
 
-SQL Based Data Analysis
-
-Dashboard Development using Power BI
-
-Data Visualization and Insight Generation
-
-KEY LEARNING
+**KEY LEARNING**
 
 This project provided practical experience in handling real world product data and demonstrated how different data analysis tools can be combined to transform raw data into meaningful insights.
 
-The project strengthened my understanding of data cleaning, SQL analysis, Excel based analytics, data visualization, dashboard development, and business focused insight generation.
+The project strengthened my understanding of:
 
-CONCLUSION
+• Data Cleaning
+
+• SQL Analysis
+
+• Excel Based Analytics
+
+• Data Visualization
+
+• Dashboard Development
+
+• Business Focused Insight Generation
+
+**CONCLUSION**
 
 This project helped me understand how data can be cleaned, analyzed, and presented using different tools.
 
-MySQL was used for SQL analysis, Excel was used for data cleaning and detailed analysis, and Power BI was used to create the interactive dashboard.
+• MySQL was used for SQL analysis and database management
+
+• Excel was used for data cleaning and detailed analysis
+
+• Power BI was used to create the interactive dashboard
 
 Overall, the project helped me develop a practical understanding of the data analysis process using real world product data and strengthened my skills in SQL, Excel, data visualization, and Power BI.
