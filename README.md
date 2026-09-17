@@ -180,7 +180,7 @@ Contains the interactive Amazon India Product and Pricing Analysis dashboard, vi
 
 • Project Report PDF
 
-Contains the complete project documentation, analysis methodology, key findings, dashboard screenshots, and final conclusions.
+Contains the project detail.
 
 **PROJECT WORKFLOW**
 
