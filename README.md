@@ -162,6 +162,26 @@ Amazon India Product and Pricing Analysis
 
 • Rating Range
 
+**PROJECT FILES**
+
+The complete project deliverables include:
+
+• Excel File
+
+Contains the cleaned dataset, data quality checks, analysis, pivot tables, charts, and insights.
+
+• MySQL SQL File
+
+Contains the database creation, table structure, SQL queries, and data analysis performed using MySQL.
+
+• Power BI File
+
+Contains the interactive Amazon India Product and Pricing Analysis dashboard, visualizations, metrics, and filters.
+
+• Project Report PDF
+
+Contains the complete project documentation, analysis methodology, key findings, dashboard screenshots, and final conclusions.
+
 **PROJECT WORKFLOW**
 
 • Amazon India Product Dataset
@@ -177,6 +197,8 @@ Amazon India Product and Pricing Analysis
 • Dashboard Development using Power BI
 
 • Data Visualization and Insight Generation
+
+• Project Documentation and Report Preparation
 
 **KEY LEARNING**
 
@@ -206,4 +228,6 @@ This project helped me understand how data can be cleaned, analyzed, and present
 
 • Power BI was used to create the interactive dashboard
 
-Overall, the project helped me develop a practical understanding of the data analysis process using real world product data and strengthened my skills in SQL, Excel, data visualization, and Power BI.
+• A PDF report was prepared to document the complete project analysis and findings
+
+Overall, the project helped me develop a practical understanding of the end to end data analysis process using real world product data and strengthened my skills in SQL, Excel, data visualization, dashboard development, and business insight generation.
