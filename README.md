@@ -6,6 +6,12 @@ This project focuses on analyzing Amazon India product data to understand produc
 
 The project demonstrates an end to end data analysis workflow using MySQL, Excel, and Power BI. The data was cleaned, analyzed, and transformed into meaningful insights and an interactive dashboard.
 
+## Dataset
+
+The dataset used in this project was obtained from Kaggle.
+
+The dataset is used for educational and analytical purposes. Please refer to the original Kaggle dataset page for the applicable license and terms of use.
+
 **TOOLS USED**
 
 **MYSQL**
